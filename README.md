@@ -1,5 +1,8 @@
-如需修改测试请直接下载整个文件夹，然后自行搭建本地服务器并在浏览器访问 "localhost:8080"
+请勿将根目录下2048/wlsa/style/下的imgw文件夹改名为img，不然会造成严重后果
+仅供学习参考目的
 
-python实现本地服务器搭建参考:https://blog.csdn.net/qq_42951560/article/details/124218348
 
-（推荐）(仅限windows用户)使用node.js提供的http-sever搭建https://juejin.cn/post/6844903946444603400
+github个人博客搭建方式https://docs.github.com/zh/pages/quickstart
+推荐下载github desktop
+
+服务器本地配置教程参考https://blog.csdn.net/wsp_1138886114/article/details/84100316
